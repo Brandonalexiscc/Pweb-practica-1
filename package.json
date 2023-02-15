@@ -11,5 +11,13 @@
   "license": "ISC",
   "dependencies": {
     "celsius": "^1.0.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brandonalexiscc/Pweb-practica-1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Brandonalexiscc/Pweb-practica-1/issues"
+  },
+  "homepage": "https://github.com/Brandonalexiscc/Pweb-practica-1#readme"
 }
