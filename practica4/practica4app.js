@@ -26,8 +26,9 @@ let persona = {
         return `${this.domicilio.calle}, ${this.domicilio.colonia}, ${this.domicilio.cp}, ${this.domicilio.municipio}`;
     }
 };
-/*
+
 console.log(persona.getName());
+/*
 console.log(persona.nombre);
 console.log(persona.apellido);
 console.log(persona.domicilio);
