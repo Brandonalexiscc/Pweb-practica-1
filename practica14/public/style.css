@@ -1,0 +1,18 @@
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+    background-color: #b57070;
+}
+
+h1{
+    font-size: 2em;
+    font-weight: 300;
+    color: #19191a;
+    text-align: left;
+}
+
+h2{
+    font-size: 1.5em;
+    font-weight: 300;
+    color: #372ac6;
+    text-align: left;
+}
